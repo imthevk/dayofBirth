@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(172, 247, 222);
+}
+h1{
+    text-align: center; color: rgb(255, 6, 6);
+    background-color: aqua;
+}
+.calc{
+    margin:0 300px;
+}
+#userDay{
+    width: 200px;
+    height: 50px;
+    text-align: center;
+}
+#userMonth{
+    width: 200px;
+    height: 50px;
+    text-align: center;
+}
+#userYear{
+    width: 200px;
+    height: 50px;
+    text-align: center;
+}
+#submit{
+    font-size: 1.5em;
+}
+#message{
+    font-size: 1.6em;
+    color: brown;
+    background-color: lightgray;
+}
